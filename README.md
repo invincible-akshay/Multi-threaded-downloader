@@ -2,7 +2,7 @@
 A multi-threaded downloader  command line utility
 
 
-## INSTALLATION
+## I. INSTALLATION
 
 Make sure python3.7 or above is installed and available on PATH environment variable. 
 
